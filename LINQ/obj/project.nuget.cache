@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "pwtWqzGRWs+T1zz5jRf+MwE+3lTeypOjuqk+g01pTjBsH1emgBHnmk5sn0V0BM3Xr4MEJMCy6GBRYuDhAoNIrQ==",
+  "dgSpecHash": "Ak0yi4PtU0MpXC+nPsLvqWuM+La275cIPRvtxqh1uQjs4nSGansbHqz7vGcSAdoyc1f3T72iGZzgwwPFL2gNLw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Desktop\\new\\LINQ\\LINQ\\LINQ.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/ak47/Desktop/Repos_folder/LINQ-Exercise/LINQ/LINQ.csproj",
+  "expectedPackageFiles": [
+    "/Users/ak47/.nuget/packages/microsoft.netcore.app.ref/6.0.22/microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "/Users/ak47/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.22/microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "/Users/ak47/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.22/microsoft.netcore.app.host.osx-arm64.6.0.22.nupkg.sha512"
+  ],
   "logs": []
 }

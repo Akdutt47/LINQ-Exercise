@@ -1,0 +1,14 @@
+/Users/ak47/Desktop/Repos_folder/LINQ-Exercise/LINQ/bin/Debug/net6.0/LINQ
+/Users/ak47/Desktop/Repos_folder/LINQ-Exercise/LINQ/bin/Debug/net6.0/LINQ.deps.json
+/Users/ak47/Desktop/Repos_folder/LINQ-Exercise/LINQ/bin/Debug/net6.0/LINQ.runtimeconfig.json
+/Users/ak47/Desktop/Repos_folder/LINQ-Exercise/LINQ/bin/Debug/net6.0/LINQ.dll
+/Users/ak47/Desktop/Repos_folder/LINQ-Exercise/LINQ/bin/Debug/net6.0/LINQ.pdb
+/Users/ak47/Desktop/Repos_folder/LINQ-Exercise/LINQ/obj/Debug/net6.0/LINQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ak47/Desktop/Repos_folder/LINQ-Exercise/LINQ/obj/Debug/net6.0/LINQ.AssemblyInfoInputs.cache
+/Users/ak47/Desktop/Repos_folder/LINQ-Exercise/LINQ/obj/Debug/net6.0/LINQ.AssemblyInfo.cs
+/Users/ak47/Desktop/Repos_folder/LINQ-Exercise/LINQ/obj/Debug/net6.0/LINQ.csproj.CoreCompileInputs.cache
+/Users/ak47/Desktop/Repos_folder/LINQ-Exercise/LINQ/obj/Debug/net6.0/LINQ.dll
+/Users/ak47/Desktop/Repos_folder/LINQ-Exercise/LINQ/obj/Debug/net6.0/refint/LINQ.dll
+/Users/ak47/Desktop/Repos_folder/LINQ-Exercise/LINQ/obj/Debug/net6.0/LINQ.pdb
+/Users/ak47/Desktop/Repos_folder/LINQ-Exercise/LINQ/obj/Debug/net6.0/LINQ.genruntimeconfig.cache
+/Users/ak47/Desktop/Repos_folder/LINQ-Exercise/LINQ/obj/Debug/net6.0/ref/LINQ.dll
